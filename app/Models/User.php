@@ -22,6 +22,10 @@ class User extends Authenticatable
         'email',
         'password',
     ];
+    public function berita()
+    {
+        return $this->hasMany('App\Models\Berita');
+    }
 
     /**
      * The attributes that should be hidden for serialization.
