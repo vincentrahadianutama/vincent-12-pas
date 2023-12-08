@@ -30,4 +30,5 @@
     @include('layouts.frame.foot')
 </body>
 
+
 </html>

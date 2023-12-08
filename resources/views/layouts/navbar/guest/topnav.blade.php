@@ -13,7 +13,7 @@
             <!-- Right Side Of Navbar -->
             <ul class="navbar-nav ms-auto align-items-md-center">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="/">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/">Viral</a>
